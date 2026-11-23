@@ -83,7 +83,7 @@ The flex threshold that triggers the hand is set on the arm side (`FLEX_THRESHOL
 
 <br>
 
-<img src="https://singlecolorimage.com" width="100%" height="4" alt="Blue divider">
+![Blue Divider](https://placehold.co)
 
 <br>
 
