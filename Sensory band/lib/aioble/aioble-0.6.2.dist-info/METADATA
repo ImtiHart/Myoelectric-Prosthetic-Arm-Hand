@@ -1,8 +1,0 @@
-Metadata-Version: 2.1
-Name: aioble
-Version: 0.6.2
-Summary: This library provides an object-oriented, asyncio-based wrapper for MicroPython's bluetooth API.
-Author: 
-License: MIT
-Home-page: https://github.com/micropython/micropython-lib/tree/master/micropython/bluetooth/aioble
-Project-URL: Source, https://github.com/micropython/micropython-lib/tree/master/micropython/bluetooth/aioble
