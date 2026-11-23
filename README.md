@@ -81,6 +81,8 @@ The flex threshold that triggers the hand is set on the arm side (`FLEX_THRESHOL
 
 `imu.py` and `vector3d.py` are by Peter Hinch and Sebastian Plamauer under the MIT licence. `aioble` is part of [micropython-lib](https://github.com/micropython/micropython-lib) (MIT licence). No licence has been chosen yet for the rest. Consider adding one, such as MIT.                                                     
 
+<br>
+<br>
 
 # Prosthetic Arm
 
