@@ -83,9 +83,9 @@ The flex threshold that triggers the hand is set on the arm side (`FLEX_THRESHOL
 
 <br>
 
-<svg width="100%" height="4" xmlns="http://w3.org">
-  <rect width="100%" height="4" fill="#0969da" />
-</svg>
+##
+##
+##
 
 <br>
 
